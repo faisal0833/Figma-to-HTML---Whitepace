@@ -291,4 +291,10 @@ body {
 .your-work-area .theme-text p {
     color: #ffffff;
 }
+
+/* Your Data Area CSS */
+.your-data-area {
+    padding: 140px 0;
+    background-color: #ffffff;
+}
     
