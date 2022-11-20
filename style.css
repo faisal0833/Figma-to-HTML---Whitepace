@@ -279,4 +279,16 @@ body {
         margin-bottom: 30px;
     }
 }
+
+/* Your Work Area CSS */
+.your-work-area {
+    padding: 140px 0;
+    background-color: #043873;
+}
+.your-work-area .theme-text h3 {
+    color: #ffffff;
+}
+.your-work-area .theme-text p {
+    color: #ffffff;
+}
     
