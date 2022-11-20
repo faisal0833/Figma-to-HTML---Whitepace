@@ -332,4 +332,27 @@ body {
         margin-bottom: 50px;
     }
 }
+
+/* Apps Area CSS */
+.apps-area {
+    padding: 140px 0;
+    background-image: url(img/apps-bg.png);
+    background-position: center;
+    background-size: cover;
+}
+.apps-area .theme-text h3 {
+    color: #ffffff;
+}
+.apps-area .theme-text p {
+    color: #ffffff;
+}
+
+@media (max-width: 991px) {
+    .apps-area {
+        padding: 80px 0;
+    }
+    .apps-image {
+        margin-bottom: 50px;
+    }
+}
     
